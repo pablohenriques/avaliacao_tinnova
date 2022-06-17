@@ -10,7 +10,7 @@
 ---
 ### Online:
 - Tanto o site quanto a API do exercício 5 estão disponíveis nos links:
-- Frontend: https://tinfrontapp.herokuapp.com/dados
+- Frontend: https://tinfrontapp.herokuapp.com
 - Backend: https://tinapiprojeto.herokuapp.com
 - Ambas aplicações foram disponibilizadas no Heroku, inclusive utilizando o banco de dados Postgres, também fornecido pelo Heroku.
 
